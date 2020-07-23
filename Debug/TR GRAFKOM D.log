@@ -1,0 +1,29 @@
+﻿Build started 23/07/2020 21.20.51.
+     1>Project "c:\Users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\TR GRAFKOM D\TR GRAFKOM D.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\TR GRAFKOM D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TR_GRAFKOM_D_672018032_672018252_672018283.cpp
+         TR_GRAFKOM_D_672018032_672018252_672018283.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TR GRAFKOM D.exe.embed.manifest.res" "Debug\TR GRAFKOM D_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TR GRAFKOM D.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.lib" /MACHINE:X86 "Debug\TR GRAFKOM D.exe.embed.manifest.res"
+         Debug\TR_GRAFKOM_D_672018032_672018252_672018283.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TR GRAFKOM D.exe.embed.manifest" /manifest "Debug\TR GRAFKOM D.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TR GRAFKOM D.exe.embed.manifest.res" "Debug\TR GRAFKOM D_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TR GRAFKOM D.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.lib" /MACHINE:X86 "Debug\TR GRAFKOM D.exe.embed.manifest.res"
+         Debug\TR_GRAFKOM_D_672018032_672018252_672018283.obj
+         TR GRAFKOM D.vcxproj -> c:\users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\Debug\TR GRAFKOM D.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TR GRAFKOM D.unsuccessfulbuild".
+         Touching "Debug\TR GRAFKOM D.lastbuildstate".
+     1>Done Building Project "c:\Users\vivi\documents\visual studio 2010\Projects\TR GRAFKOM D\TR GRAFKOM D\TR GRAFKOM D.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.10
